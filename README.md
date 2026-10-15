@@ -69,6 +69,13 @@ Detailed test cases are documented in `test-cases.md`, and observations and reco
 - Automate user and group reporting with Microsoft Graph PowerShell.
 - Detect enabled accounts that require offboarding review.
 - Export findings to CSV.
+
+- ## 10. Screenshots
+- Entra ID Dashboard
+Test User Accounts
+IAM Security Group Membership
+Account Deactivation
+Group Membership After Deactivation
 - Review application assignments and privileged role assignments.
 - Add repeatable audit checks.
 
